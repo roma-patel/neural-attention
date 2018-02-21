@@ -5,6 +5,9 @@ The folders contain *TensorFlow* implementations of models that take in \{senten
 ### Folders
 
 Model_1 contains a TensorFlow implementation described in *Rocktäschel et al.* *"Reasoning about Entailment with Neural Attention"* [1]. 
+
+Model_1 contains a TensorFlow implementation modified to abstract over "ambigous words".
+
 ### Data
 
 #### The Stanford Natural Language Inference (SNLI) Corpus
